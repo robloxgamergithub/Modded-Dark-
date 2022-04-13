@@ -1,0 +1,21 @@
+/**
+  * @name hhugom2011's theme
+  * @author hhugom2011#0001
+  * @version 999
+  * @description Made by hhugom2011 (source made by deveil)
+  * @authorId 468132563714703390
+  * @authorLink https://sites.google.com/view/vulcan-company/Company
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+  * @website https://sites.google.com/view/vulcan-company/Company
+  * @invite gTZKnGZj9n
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #850000;
+  --darkplus-bg2: #92fcee59;
+  --darkplus-sec: #dfa9ff;
+  --darkplus-links: #fad710;
+  --darkplus-home-icon: url(https://c.tenor.com/IgknKg_YnbgAAAAC/fluffy-cute.gif)
+}
